@@ -12,7 +12,7 @@ This Telegram bot allows you to download videos from YouTube and other supported
 -----
 <details> <summary>Deploy to heroku</summary>
 
-<a href="https://heroku.com/deploy"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"></a>
+<a href="https://github.com/Jnanesh124/newytdl"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"></a>
 
 If you are having trouble deploying, you can fork the project to your personal account and deploy it from there.
 
