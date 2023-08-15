@@ -9,15 +9,15 @@
   ],
   "env": {
     "TOKEN": {
-      "description": "Bot token",
+      "description": "6357264904:AAF_DqRfVRh6wiIQACXeaakjmJPqE_Dv_Mg",
       "value": "token"
     },
     "APP_ID": {
-      "description": "APP ID",
+      "description": "29942004",
       "value": "12345"
     },
     "APP_HASH": {
-      "description": "APP HASH",
+      "description": "ad92f01e4a90cddebbea0ad16fa23026",
       "value": "12345abc"
     },
     "OWNER": {
